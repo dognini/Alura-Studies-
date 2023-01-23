@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@types/uuid": "^9.0.0",
+    "sass": "^1.57.1",
+    "typescript-plugin-css-modules": "^4.1.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "uuid": "^9.0.0"
+  },
+  "presets": [
+    "@babel/preset-env"
+  ]
+}
